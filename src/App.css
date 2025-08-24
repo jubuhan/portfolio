@@ -1,0 +1,16 @@
+
+
+html {
+    scroll-behavior: smooth;
+  }
+  
+  * {
+    scroll-margin-top: 100px;
+  }
+  
+
+  .writing-vertical-rl {
+  writing-mode: vertical-rl;
+}
+
+
